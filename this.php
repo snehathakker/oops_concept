@@ -15,4 +15,5 @@
 	$sub->laravel = '55';
 	
 	echo $sub->result();
+	
 ?>
